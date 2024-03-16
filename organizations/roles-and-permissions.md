@@ -27,7 +27,7 @@ Admins are intended to have permissions to manage and configure SupplyShark sett
 
 * Invite other team members
 * Assign team members the Admin role
-* Modify SupplyShark settings
+* Modify organization settings
 * Do anything Members can do
 
 ❌ Admins cannot:
@@ -44,12 +44,12 @@ Members are intended to just have permissions to manage the results inbox, which
 
 ✅ Members can:
 
-* View SupplyShark settings
+* View organization settings
 * Manage the results inbox
 
 ❌ Members cannot:
 
 * Invite other team members
-* Configure SupplyShark settings
+* Modify organization settings
 * Do anything admin users can't do
 
