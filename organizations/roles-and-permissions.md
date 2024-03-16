@@ -8,8 +8,7 @@ There are 3 user roles for organization team members:
 
 ## Owner
 
-Each organization has one owner, and this is the person who created the SupplyShark account.
-
+Each organization has one owner, and this is the person who created the SupplyShark account.\
 
 
 ✅ Owners can:
@@ -21,8 +20,7 @@ Each organization has one owner, and this is the person who created the SupplySh
 
 ## Admin
 
-Admins are intended to have permissions to manage and configure SupplyShark settings, and invite team members to your organization.
-
+Admins are intended to have permissions to manage and configure SupplyShark settings, and invite team members to your organization.\
 &#x20;
 
 ✅ Admins can:
