@@ -10,7 +10,7 @@ You can view your scan frequency setting, when your last scan was run, and when 
 
 There are also charts to see the number of vulnerabilities found over time.
 
-## Scan History
+## Scan history
 
 Scroll to the bottom of the dashboard you can see the scan history starting from the latest.
 

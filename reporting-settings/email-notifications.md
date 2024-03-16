@@ -8,7 +8,7 @@ SupplyShark will send notifications to the email address you entered during the 
 
 Some workflows might prefer to send these notifications to a team email address like `security@company.com`, so we created this as an option.
 
-### Changing the reporting email
+## Changing the reporting email
 
 Browse to **Configure** -> **Email Notifications**, and update the email address.
 

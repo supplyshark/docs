@@ -4,13 +4,13 @@ description: Installing our Slack bot
 
 # Slack Bot
 
-## 1. Log in and click the Install App link
+## 1. Install the Slack app
 
 To install the Slack bot, browse to Configure -> Slack Bot, and click Install App.
 
 <figure><picture><source srcset="https://www.supplyshark.io/_next/image?url=%2Fassets%2Fimages%2Fdocs%2Fslack-install-dark.png&#x26;w=3840&#x26;q=75" media="(prefers-color-scheme: dark)"><img src="https://www.supplyshark.io/_next/image?url=%2Fassets%2Fimages%2Fdocs%2Fslack-install-light.png&#x26;w=3840&#x26;q=75" alt=""></picture><figcaption></figcaption></figure>
 
-## 2. Connect the bot to your Slack channel
+## 2. Connect SupplyShark to your Slack channel
 
 You'll be redirected to Slack, where you can choose the channel you'd like to receive alerts to.
 

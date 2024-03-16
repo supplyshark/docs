@@ -14,7 +14,7 @@ You can mark a vulnerability as resolved or ignored by clicking the dropdown men
 
 <figure><img src="https://www.supplyshark.io/_next/image?url=%2Fassets%2Fimages%2Fdocs%2Fresults-inbox.png&#x26;w=3840&#x26;q=75" alt=""><figcaption></figcaption></figure>
 
-## The Vulnerability Report
+## The vulnerability report
 
 Each vulnerability report will contain a
 
@@ -27,7 +27,7 @@ You can also mark the report as resolved or ignored here
 
 <figure><img src="https://www.supplyshark.io/_next/image?url=%2Fassets%2Fimages%2Fdocs%2Freport-view.png&#x26;w=3840&#x26;q=75" alt=""><figcaption></figcaption></figure>
 
-## Resolved Reports
+## Resolved reports
 
 We recommend marking a report as resolved after you've fixed the issue.
 
@@ -35,11 +35,11 @@ Overtime, your progress for resolving reports will show up in the main dashboard
 
 If a vulnerability is marked as resolved and then found again at a later date, a new vulnerability report will be created.
 
-## Ignoring Reports
+## Ignoring reports
 
 Vulnerabilities that don't you choose not to fix should be marked as "ignored". This will hide it from the main inbox and it will be in the ignored inbox in case you decide to revisit it in the future.
 
-## How We Handle Duplicates
+## How we handle duplicates
 
 If a vulnerability already exists in your dashboard and is found again, it won't be reported again, so there will be no duplicates.
 
