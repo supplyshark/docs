@@ -16,3 +16,7 @@
 
 * [GitHub App](integrations/github-app.md)
 * [Slack Bot](integrations/slack-bot.md)
+
+## Organizations
+
+* [Roles & Permissions](organizations/roles-and-permissions.md)
