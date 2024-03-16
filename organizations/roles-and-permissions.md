@@ -1,6 +1,6 @@
 # Roles & Permissions
 
-There are 3 roles for organizations on SupplyShark:
+There are 3 user roles for organization team members:
 
 * Owner
 * Admin
